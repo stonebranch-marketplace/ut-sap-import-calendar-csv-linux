@@ -68,7 +68,7 @@ download the Oracle Java jdk8 rpm from the oracle homepage:
 
 http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
-**stall the rpm:**
+**1.1	Install the rpm:**
 
 rpm -ivh jdk-8u181-linux-x64.rpm (or use your package installer)
 
