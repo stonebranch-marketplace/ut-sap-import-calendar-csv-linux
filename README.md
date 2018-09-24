@@ -58,7 +58,7 @@ Related UAC XML Files for template and task: [1]:
 
 The following describes the installation steps:
 
-**1.	Install JAVA JDK **
+**1.	Install JAVA JDK (example for RedHat) **
 
 Check the java version on you server: java -version
 
