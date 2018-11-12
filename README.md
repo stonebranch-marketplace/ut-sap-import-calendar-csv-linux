@@ -189,13 +189,13 @@ The imported Calendar consists of CustomDays List of Type workday and holiday.
 
 The following basic test cases has been performed:
 
-![](images/image11.png) 
+![](images/image11a.png) 
+
+![](images/image11b.png) 
 
 # 7	Document References
 
-This document references the following documents:
-
-![](images/image12.png)
+There are no document references.
 
 
 
